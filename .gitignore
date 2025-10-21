@@ -1,0 +1,42 @@
+# JSON files
+*.json
+test_sample.json
+test_grit_sample.json
+temp_coco_format.json
+coco_eval_predictions_scaled.json
+coco_eval_predictions.json
+controlcap_gt.json
+controlcap_res.json
+gt_coco_format.json
+gt.json
+test.json
+train_grit.json
+test_grit.json
+
+# Meteor folder and JAR files
+meteor/
+meteor/*
+*.jar
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
